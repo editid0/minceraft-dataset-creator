@@ -24,6 +24,9 @@ Yes, please link to this repo if possible though.
 ### Can I contribute my own gameplay?
 Yes, follow the gameplay rules below and use git to make a commit and make a pull request to add your gameplay.
 
+### How can I view the video files?
+Make sure you have git and git lfs installed, or download the videos on github.
+
 ## Gameplay rules
 1. No overlays (game must look as vanilla as possible)
 2. No texture packs.
